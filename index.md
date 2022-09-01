@@ -4,12 +4,10 @@ image: /assets/img/hydejack-8.png
 hide_description: true
 ---
 
-# Thank You
-Thank you for buying the PRO version of Hydejack! 🎉
+# Sobre nosotros
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown, with my own editor, one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+Formada por N colegiales y organizado por Daniel Prol, los miembros
+de este Club ...
 
 ## First Steps
 Please start by reading the [Documentation]{:.heading.flip-title}.
