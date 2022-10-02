@@ -4,9 +4,9 @@ image: /assets/img/hydejack-8.png
 hide_description: true
 ---
 
-# Sobre nosotros
+# Miembros
 
-Formada por N colegiales y organizado por Daniel Prol, los miembros de este Club son:
+Formada por 6 colegiales y organizado por Daniel Prol, los miembros de este Club son:
 
 * Daniel Prol --- Ingeniería Informática, UNIR.
 * André Balansa --- Máster en Criminología, Política Criminal y Sociología Jurídico-penal, UB.
