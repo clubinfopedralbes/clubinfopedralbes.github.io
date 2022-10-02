@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Actividades
-    url:               /actividades/
+    url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -64,11 +64,11 @@ menu:
 copyright:             © 2022. Colegio Mayor Pedralbes.
 
 # Format of the permalinks
-permalink:             /actividades/:categories/:year-:month-:day-:title/
+permalink:             /blog/:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /actividades/page-:num/
+paginate_path:         /blog/page-:num/
 
 
 # Customizaton
@@ -220,7 +220,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /actividades/:name/
+    permalink:         /blog/:name/
     output:            true
 
   featured_tags:
