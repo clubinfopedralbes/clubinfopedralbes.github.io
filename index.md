@@ -8,5 +8,5 @@ hide_description: true
 
 Formada por N colegiales y organizado por Daniel Prol, los miembros de este Club son:
 
-* <b><a href="https://www.linkedin.com/in/dannyprol/">Daniel Prol</a></b> --- Ingeniería Informática, UNIR.
+* Daniel Prol --- Ingeniería Informática, UNIR.
 * etc.
