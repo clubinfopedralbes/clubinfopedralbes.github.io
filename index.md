@@ -9,4 +9,8 @@ hide_description: true
 Formada por N colegiales y organizado por Daniel Prol, los miembros de este Club son:
 
 * Daniel Prol --- Ingeniería Informática, UNIR.
-* etc.
+* André Balansa --- Máster en Criminología, Política Criminal y Sociología Jurídico-penal, UB.
+* Antonio Fernández Llamas --- Matemáticas y Física, UB.
+* Joan Morató --- Ingeniería Industrial, UPC.
+* Javi Navío --- Ingeniería Informática, UPC.
+* Juan Felipe Ruiz --- Bioingeniería, UIC.
